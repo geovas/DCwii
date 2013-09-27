@@ -35,4 +35,8 @@ Project Current Directory: **C:\my3d\quad\**
 - DD1: Arduino Pro Mini 8MHz 3.3v (from ebay). IMPORTANT! I2C pins may vary in you Arduino!
 - DD2: GY-521 (MPU-6050 based board) or handmade MPU3050 board (I'm using second).
 
+**External links:**     
+- MultiWii offical page: https://github.com/multiwii/multiwii-firmware
+- MultiWii DCwii-edition: https://github.com/geovas/multiwii-firmware/tree/master
+- Video of the first flight: http://www.youtube.com/watch?v=wVgiFEIkSXU
 
